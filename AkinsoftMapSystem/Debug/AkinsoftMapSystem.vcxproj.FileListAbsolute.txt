@@ -1,0 +1,4 @@
+C:\Users\Abubaker\OneDrive\Documents\Visual Studio 2019\AkinsoftMapSystem\AkinsoftMapSystem\Debug\AkinsoftMapSystem.vcxproj.AssemblyReference.cache
+C:\Users\Abubaker\OneDrive\Documents\Visual Studio 2019\AkinsoftMapSystem\AkinsoftMapSystem\Debug\AkinsoftMapSystem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Abubaker\OneDrive\Documents\Visual Studio 2019\AkinsoftMapSystem\AkinsoftMapSystem\Debug\AkinsoftMapSystem.MyForm.resources
+C:\Users\Abubaker\OneDrive\Documents\Visual Studio 2019\AkinsoftMapSystem\AkinsoftMapSystem\Debug\AkinsoftMapSystem.vcxproj.GenerateResource.cache
